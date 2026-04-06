@@ -23,7 +23,8 @@ We can check data by using client package called mysql.
 
 Usually command to connect mysql server is
 
-mysql -h <host-address> -u root -p<password>
+mysql -h <host-address> -u root -p<password>  --- mysql -u root -pExpenseAPP@1
+
 
 After runnign this command i found that i dont have access so with the help AI i resovled it 
 https://claude.ai/share/eeb018fc-d961-4229-980d-57739b3d7c59
